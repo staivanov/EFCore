@@ -1,0 +1,35 @@
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.deps.json
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.runtimeconfig.json
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.dll
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.pdb
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarData\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.AssemblyReference.cache
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.AssemblyInfoInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.AssemblyInfo.cs
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.CoreCompileInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.CopyComplete
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.dll
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\refint\CarData.dll
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.pdb
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.genruntimeconfig.cache
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\ref\CarData.dll
+P:\EF Core\One to many\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.sourcelink.json
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.deps.json
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.runtimeconfig.json
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.dll
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarData.pdb
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarData\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.AssemblyReference.cache
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.AssemblyInfoInputs.cache
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.AssemblyInfo.cs
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.CoreCompileInputs.cache
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.csproj.CopyComplete
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.dll
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\refint\CarData.dll
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.pdb
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\CarData.genruntimeconfig.cache
+P:\EF Core\CarConsoleProject\CarData\obj\Debug\net6.0\ref\CarData.dll

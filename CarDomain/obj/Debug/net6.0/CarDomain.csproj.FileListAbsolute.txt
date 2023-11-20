@@ -1,0 +1,23 @@
+P:\EF Core\One to many\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.deps.json
+P:\EF Core\One to many\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.AssemblyInfoInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.AssemblyInfo.cs
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.csproj.CoreCompileInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\refint\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.pdb
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\ref\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.sourcelink.json
+P:\EF Core\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.deps.json
+P:\EF Core\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarDomain\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.AssemblyInfoInputs.cache
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.AssemblyInfo.cs
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.csproj.CoreCompileInputs.cache
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\refint\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.pdb
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\ref\CarDomain.dll

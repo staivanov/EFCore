@@ -1,0 +1,127 @@
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.exe
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.deps.json
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.runtimeconfig.json
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.pdb
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.AssemblyInfoInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.AssemblyInfo.cs
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.CoreCompileInputs.cache
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\refint\CarConsoleProject.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.pdb
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.genruntimeconfig.cache
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\ref\CarConsoleProject.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.sourcelink.json
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Humanizer.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.CopyComplete
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Drawing.Common.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarData.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarData.pdb
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\One to many\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.AssemblyReference.cache
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.exe
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.deps.json
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.runtimeconfig.json
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarConsoleProject.pdb
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Humanizer.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Drawing.Common.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarData.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarData.pdb
+P:\EF Core\CarConsoleProject\CarConsoleProject\bin\Debug\net6.0\CarDomain.pdb
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.AssemblyReference.cache
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.AssemblyInfoInputs.cache
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.AssemblyInfo.cs
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.CoreCompileInputs.cache
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.csproj.CopyComplete
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\refint\CarConsoleProject.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.pdb
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.genruntimeconfig.cache
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\ref\CarConsoleProject.dll
