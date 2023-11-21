@@ -125,3 +125,4 @@ P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\refint\CarConsol
 P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.pdb
 P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.genruntimeconfig.cache
 P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\ref\CarConsoleProject.dll
+P:\EF Core\CarConsoleProject\CarConsoleProject\obj\Debug\net6.0\CarConsoleProject.sourcelink.json

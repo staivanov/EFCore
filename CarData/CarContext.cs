@@ -21,17 +21,17 @@ namespace CarData
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Brand>().HasData(
-            //    new Brand { BrandId = 1, Name = "Porsche" });
+            modelBuilder.Entity<Brand>().HasData(
+                new Brand { BrandId = 1, Name = "Porsche" });
 
-            //var brandsList = new Brand[]{
-            //    new() {BrandId = 2, Name = "BMW" },
-            //    new() {BrandId = 3, Name = "Mercedes"},
-            //    new() {BrandId = 4, Name = "VW" },
-            //    new() {BrandId = 5, Name = "Toyota"},
-            //    new() {BrandId = 6, Name = "Lexus"}
-            //};
-            //modelBuilder.Entity<Brand>().HasData(brandsList);
+            var brandsList = new Brand[]{
+                new() {BrandId = 2, Name = "BMW" },
+                new() {BrandId = 3, Name = "Mercedes"},
+                new() {BrandId = 4, Name = "VW" },
+                new() {BrandId = 5, Name = "Toyota"},
+                new() {BrandId = 6, Name = "Lexus"}
+            };
+            modelBuilder.Entity<Brand>().HasData(brandsList);
 
             //modelBuilder.Entity<Brand>()
             //    .HasMany<Model>()

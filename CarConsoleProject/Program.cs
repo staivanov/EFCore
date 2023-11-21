@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CarConsoleProject
 {
-    internal class Program
+    public class Program
     {
         private static readonly CarContext _context = new();
 
         static void Main()
         {
             string carBrand = "Porsche";
-            QueryProjectionBrandWithModelNameAndYear(carBrand);
+           
 
         }
 
@@ -150,5 +150,32 @@ namespace CarConsoleProject
             _context.Brands.Add(newBrand);
             _context.SaveChanges();
         }
+
+
+        private static List<Brand> GetAllBrandsWithRawSQL()
+        {
+            List<Brand> brands = _context.Brands
+                .FromSqlRaw("SELECT * FROM [dbo].[Brands]").ToList();
+
+            return brands;
+        }
+
+
+        private static List<ProductionCountry> GetAllCountriesByFirstLetterStoredProc(char countryLetter)
+        {
+            var countries = _context.ProductionCountries
+                .FromSqlRaw($"SelectCountryByFirstLetter {countryLetter}").ToList();
+
+            return countries;
+        }
+
+
+        //private static List<Brand> SelectAllBrandsFromCountryStoredProc(string countryName)
+        //{
+        //    //ToDo
+        //}
+
+
+
     }
 }
