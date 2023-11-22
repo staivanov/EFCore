@@ -10,12 +10,26 @@ namespace CarData
         public DbSet<Model> Models { get; set; }
         public DbSet<ProductionCountry> ProductionCountries { get; set; }
 
+        public CarContext()
+        {
+        }
+
+
+        public CarContext(DbContextOptions<CarContext> options) : base(options)
+        {
+
+        }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string connectionString = $"Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = CarDatabase";
-            optionsBuilder.UseSqlServer(connectionString).LogTo(Console.WriteLine,
-            new[] { DbLoggerCategory.Database.Command.Name },
-            LogLevel.Information);
+            if (!optionsBuilder.IsConfigured)
+            {   //Connection string is here only for a demo purpose. 
+                string connectionString = $"Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = CarDatabase";
+                optionsBuilder.UseSqlServer(connectionString).LogTo(Console.WriteLine,
+                new[] { DbLoggerCategory.Database.Command.Name },
+                LogLevel.Information);
+            }
         }
 
 
