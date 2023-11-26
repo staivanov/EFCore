@@ -9,6 +9,7 @@ namespace CarData
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Model> Models { get; set; }
         public DbSet<ProductionCountry> ProductionCountries { get; set; }
+        public DbSet<BrandNameWithHeadquarterName> BrandsNamesWithHeadquarters { get; set; }
 
         public CarContext()
         {
@@ -46,6 +47,10 @@ namespace CarData
                 new() {BrandId = 6, Name = "Lexus"}
             };
             modelBuilder.Entity<Brand>().HasData(brandsList);
+
+            //Prevent creating table with entities
+            modelBuilder.Entity<BrandNameWithHeadquarterName>().HasNoKey()
+                .ToView(nameof(BrandNameWithHeadquarterName));
 
             //modelBuilder.Entity<Brand>()
             //    .HasMany<Model>()

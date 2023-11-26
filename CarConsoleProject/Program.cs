@@ -11,7 +11,6 @@ namespace CarConsoleProject
         static void Main()
         {
             string carBrand = "Porsche";
-           
 
         }
 
@@ -161,6 +160,15 @@ namespace CarConsoleProject
         }
 
 
+        private static List<Brand> GetAllBrandsWithModelsRaqSQL()
+        {
+            List<Brand> brands = _context.Brands.FromSqlRaw("SELECT * FROM [dbo].[Brands]")
+                .Where(m => m.Models.Count != 0).ToList();
+
+            return brands;
+        }
+
+
         private static List<ProductionCountry> GetAllCountriesByFirstLetterStoredProc(char countryLetter)
         {
             var countries = _context.ProductionCountries
@@ -170,12 +178,13 @@ namespace CarConsoleProject
         }
 
 
-        //private static List<Brand> SelectAllBrandsFromCountryStoredProc(string countryName)
-        //{
-        //    //ToDo
-        //}
+        private static List<Brand> SelectAllBrandsFromCountryStoredProc(string countryName)
+        {
+            var brands = _context.Brands
+                .FromSqlInterpolated($"SelectAllBrandsFromCountry {countryName}").ToList();
 
-
+            return brands;
+        }
 
     }
 }

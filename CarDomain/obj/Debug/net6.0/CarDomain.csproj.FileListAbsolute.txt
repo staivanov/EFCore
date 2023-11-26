@@ -21,3 +21,4 @@ P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.dll
 P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\refint\CarDomain.dll
 P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.pdb
 P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\ref\CarDomain.dll
+P:\EF Core\CarConsoleProject\CarDomain\obj\Debug\net6.0\CarDomain.sourcelink.json
