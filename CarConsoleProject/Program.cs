@@ -11,6 +11,7 @@ namespace CarConsoleProject
         static void Main()
         {
             string carBrand = "Porsche";
+            GetBrandsNameWithHeadquarters();
 
         }
 
@@ -186,5 +187,12 @@ namespace CarConsoleProject
             return brands;
         }
 
+
+        private static List<BrandNameWithHeadquarterName> GetBrandsNameWithHeadquarters()
+        {
+            var brandsNameWithHeadquarters = _context.BrandsNamesWithHeadquarters.ToList();
+
+            return brandsNameWithHeadquarters;
+        }
     }
 }

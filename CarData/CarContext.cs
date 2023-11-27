@@ -34,6 +34,14 @@ namespace CarData
         }
 
 
+        //protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        //{
+        //    //Bulk configuration
+        //    configurationBuilder.Properties<Brand>().HaveColumnType("varchar(100)");
+
+        //}
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Brand>().HasData(
@@ -50,7 +58,7 @@ namespace CarData
 
             //Prevent creating table with entities
             modelBuilder.Entity<BrandNameWithHeadquarterName>().HasNoKey()
-                .ToView(nameof(BrandNameWithHeadquarterName));
+                .ToView("BrandsNamesWithHeadquarterName");
 
             //modelBuilder.Entity<Brand>()
             //    .HasMany<Model>()
